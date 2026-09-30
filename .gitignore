@@ -1,0 +1,8 @@
+# Compiled Java bytecode
+*.class
+out/
+build/
+
+# Python helper artefacts (used only while generating screenshots)
+__pycache__/
+*.pyc

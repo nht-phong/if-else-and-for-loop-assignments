@@ -1,0 +1,3 @@
+﻿Enter the basic salary: Enter the grade (A / B / other): Grade            : B
+Allowance        : 250.0
+Salary at the end of the month = 5250.0

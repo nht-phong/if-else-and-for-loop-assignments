@@ -1,0 +1,2 @@
+﻿Enter the marks: Marks = 72.0
+Grade = B

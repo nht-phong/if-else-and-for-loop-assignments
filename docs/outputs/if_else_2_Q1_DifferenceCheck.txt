@@ -1,0 +1,2 @@
+﻿Enter the first number : Enter the second number: Difference = 10
+Difference is equal to value 10

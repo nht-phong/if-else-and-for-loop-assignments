@@ -1,0 +1,4 @@
+﻿Values assigned: x = 3500, y = 250
+
+x = 3500
+y = 250

@@ -1,0 +1,5 @@
+﻿Enter your name: Enter your age: 1. Sam
+2. Sam
+3. Sam
+4. Sam
+5. Sam
